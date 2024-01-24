@@ -1,4 +1,4 @@
-package exceptions_in_Java.shapeTask;
+package exceptions_in_Java;
 
 public class ThrowsKeyword {
 
